@@ -16,7 +16,7 @@ I'm a smart-contract security researcher and auditor focused on Ethereum and EVM
 | 2025-09-29 | Summer.fi | Sherlock |  | [Writeup](#) |
 | 2025-08-29 | GTE Perps and Launchpad | Code4rena |  | [Writeup](#) |
 | 2025-08-18 | Kuru | Cantina |  | [Writeup](#) |
-| 2025-10-10 | OpenEden USDO Express | HackenProof |  | [Writeup](#) |
+| 2025-10-10 | OpenEden USDO Express | HackenProof | 8 | [Ranking](https://hackenproof.com/audit-programs/openeden-usdo-express-smart-contract-audit-contest?tab=hackers&page=2) |
 | 2025-10-08 | Lumia  | HackenProof |  | [Writeup](#) |
 
 
