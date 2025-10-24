@@ -10,7 +10,7 @@ I'm a smart-contract security researcher and auditor focused on Ethereum and EVM
 |---:|---|---|---:|---|
 | 2025-09-02 | BMX Deli swap | Sherlock | Top 10 | [Submission / Report](https://audits.sherlock.xyz/contests/1154?filter=results) | 
 | 2025-08-23 | Blockz | HackenProof | Top 5 | [Result](https://x.com/HackenProof/status/1979143500848415028) | 
-| 2025-08-28 | USG Tangent | Sherlock | 27 | [Result](https://audits.sherlock.xyz/contests/1073?filter=results) |
+| 2025-08-28 | USG Tangent | Sherlock | 27/523 | [Result](https://audits.sherlock.xyz/contests/1073?filter=results) |
 | 2025-09-02 | Ammplify | Sherlock |  | [Writeup](#) |
 | 2025-09-29 | Super DCA | Sherlock |  | [Writeup](#) |
 | 2025-09-29 | Summer.fi | Sherlock |  | [Writeup](#) |
