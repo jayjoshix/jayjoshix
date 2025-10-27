@@ -1,7 +1,7 @@
 Jay Joshi — Smart Contract Security Researcher & Auditor
 
 
-I'm a smart-contract security researcher and auditor focused on Ethereum and EVM-compatible chains. I specialize in protocol threat modeling, automated + manual vulnerability discovery, exploit PoCs, and readable audit reports. I participate in security contests and audit competitions and publish writeups and tooling on this repo.
+I'm a smart-contract security researcher and auditor focused on Ethereum and EVM-compatible chains. I specialize in protocol threat modeling, automated + manual vulnerability discovery, exploit PoCs, and readable audit reports. I participate in security contests and audit competitions and publish results on this repo and have found 25+ H/M bugs in public audit competitions.
 
 
 
