@@ -19,13 +19,13 @@ I'm a smart-contract security researcher and auditor focused on Ethereum and EVM
 | 2025-10-10 | OpenEden USDO Express | HackenProof | 8 | [Result](https://hackenproof.com/audit-programs/openeden-usdo-express-smart-contract-audit-contest?tab=hackers&page=2) |
 | 2025-10-08 | Lumia  | HackenProof | 28 | [Writeup](#) |
 | 2025-09-02 | Inverse Finance | Sherlock |  | [Submission / Report]() | 
-| 2025-08-23 | DEXLYN TOKENOMICS (MOVE) | HackenProof | 9 | [Result](https://hackenproof.com/audit-programs/dexlyn-tokenomics-smart-contract-audit-contest) | 
+| 2025-08-23 | DEXLYN TOKENOMICS (MOVE) | HackenProof | 2 | [Result](https://hackenproof.com/audit-programs/dexlyn-tokenomics-smart-contract-audit-contest) | 
 | 2025-08-28 | StNXM | Sherlock |  | [Result]() |
 | 2025-09-02 | Alignerz | DualGuards |  | [Result]() |
 | 2025-09-29 | Alchemix V3 | Immunefi |  | [Result]() |
 | 2025-09-29 | Firelight | Immunefi | 20 | [Result](https://immunefi.com/audit-competition/audit-comp-firelight/leaderboard/#top) |
 | 2025-08-29 | Vechain Stargate | Immunefi |  | [Writeup](#) |
-| 2025-08-18 | Avon | Cantina |  | [Result]() |
+| 2025-08-18 | Avon | Cantina | 27 | [Result]() |
 | 2025-10-10 | Rain | HackenProof |  | [Result]() |
 
 
