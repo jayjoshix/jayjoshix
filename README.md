@@ -27,7 +27,7 @@ I'm a smart-contract security researcher and auditor focused on Ethereum and EVM
 | 2025-08-29 | Vechain Stargate | Immunefi |  | [Writeup](#) |
 | 2025-08-18 | Avon | Cantina | 27 | [Result]() |
 | 2025-10-10 | Rain | HackenProof | 13 | [Result](https://hackenproof.com/audit-programs/rain-smart-contract-audit-contest?tab=hackers&page=3) |
-| 2025-10-10 | Reliq | HackenProof | 1🥇 | [Result[]()](https://x.com/HackenProof/status/2009307399706849763?s=20) |
+| 2025-10-10 | Reliq | HackenProof | 1🥇 | [Result](https://x.com/HackenProof/status/2009307399706849763?s=20) |
 | 2025-08-28 | Monolith | Sherlock |  | [Result]() |
 
 
