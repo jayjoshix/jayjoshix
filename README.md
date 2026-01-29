@@ -22,7 +22,7 @@ I'm a smart-contract security researcher and auditor focused on Ethereum and EVM
 | 2025-08-23 | DEXLYN TOKENOMICS (MOVE) | HackenProof | 2 🥈| [Result](https://x.com/HackenProof/status/1998410246059130999) | 
 | 2025-08-28 | StNXM | Sherlock | 23 | [Result]() |
 | 2025-09-02 | Alignerz | DualGuards | 54 | [Result]() |
-| 2025-09-29 | Alchemix V3 | Immunefi |  | [Result]() |
+| 2025-09-29 | Alchemix V3 | Immunefi | 87 | [Result]() |
 | 2025-09-29 | Firelight | Immunefi | 20 | [Result](https://immunefi.com/audit-competition/audit-comp-firelight/leaderboard/#top) |
 | 2025-08-29 | Vechain Stargate | Immunefi | 37 | [Writeup](#) |
 | 2025-08-18 | Avon | Cantina | 27 | [Result]() |
