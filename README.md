@@ -14,7 +14,7 @@ I'm a smart-contract security researcher and auditor focused on Ethereum and EVM
 | 2025-09-02 | Ammplify | Sherlock | 57/518 | [Result](https://audits.sherlock.xyz/contests/1054) |
 | 2025-09-29 | Super DCA | Sherlock | Top 4 | [Result](https://audits.sherlock.xyz/contests/1171?filter=results) |
 | 2025-09-29 | Index | Sherlock | 12 | [Result](https://audits.sherlock.xyz/contests/1197) |
-| 2025-08-29 | GTE Perps and Launchpad | Code4rena | 59 | [Result](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad) |
+| 2025-08-29 | GTE Perps and Launchpad | Code4rena | 50 | [Result](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad) |
 | 2025-08-18 | Kuru | Cantina | Top 20 | [Result](https://cantina.xyz/code/cdce21ba-b787-4df4-9c56-b31d085388e7/overview/leaderboard) |
 | 2025-10-10 | OpenEden USDO Express | HackenProof | 8 | [Result](https://hackenproof.com/audit-programs/openeden-usdo-express-smart-contract-audit-contest?tab=hackers&page=2) |
 | 2025-10-08 | Lumia  | HackenProof | 28 | [Writeup](#) |
@@ -30,6 +30,7 @@ I'm a smart-contract security researcher and auditor focused on Ethereum and EVM
 | 2025-10-10 | Reliq | HackenProof | 1🥇 | [Result](https://x.com/HackenProof/status/2009307399706849763?s=20) |
 | 2025-08-28 | Monolith | Sherlock |  | [Result]() |
 | 2026-01-16 | HotStuff | Sherlock |  | [Result]() |
+| 2026-01-19 | OpenCover | Sherlock |  | [Result]() |
 
 
 
