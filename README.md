@@ -65,7 +65,7 @@
 | 2025-08-29 | **Vechain Stargate** | ![Immunefi](https://img.shields.io/badge/Immunefi-161B22?style=flat-square&logoColor=white) | **37** | [View](#) |
 | 2025-08-28 | **USG Tangent** | ![Sherlock](https://img.shields.io/badge/Sherlock-6644FD?style=flat-square&logoColor=white) | **27** | [View](https://audits.sherlock.xyz/contests/1073?filter=results) |
 | 2025-08-28 | **StNXM** | ![Sherlock](https://img.shields.io/badge/Sherlock-6644FD?style=flat-square&logoColor=white) | **23** | [View]() |
-| 2025-08-28 | **Monolith** | ![Sherlock](https://img.shields.io/badge/Sherlock-6644FD?style=flat-square&logoColor=white) | - | [View]() |
+| 2025-08-28 | **Monolith** | ![Sherlock](https://img.shields.io/badge/Sherlock-6644FD?style=flat-square&logoColor=white) | **19** | [View]() |
 | 2025-08-23 | **DEXLYN** | ![HackenProof](https://img.shields.io/badge/HackenProof-101010?style=flat-square&logoColor=white) | 🥈 **2** | [View](https://x.com/HackenProof/status/1998410246059130999) |
 | 2025-08-23 | **Blockz** | ![HackenProof](https://img.shields.io/badge/HackenProof-101010?style=flat-square&logoColor=white) | 🏅 **Top 5** | [View](https://x.com/HackenProof/status/1979143500848415028) |
 | 2025-08-18 | **Kuru** | ![Cantina](https://img.shields.io/badge/Cantina-000000?style=flat-square&logoColor=white) | 🏅 **Top 20** | [View](https://cantina.xyz/code/cdce21ba-b787-4df4-9c56-b31d085388e7/overview/leaderboard) |
