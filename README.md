@@ -71,3 +71,26 @@
 | 2025-08-18 | **Kuru** | ![Cantina](https://img.shields.io/badge/Cantina-000000?style=flat-square&logoColor=white) | 🏅 **Top 20** | [View](https://cantina.xyz/code/cdce21ba-b787-4df4-9c56-b31d085388e7/overview/leaderboard) |
 | 2025-08-18 | **Avon** | ![Cantina](https://img.shields.io/badge/Cantina-000000?style=flat-square&logoColor=white) | **27** | [View]() |
 | 2026-03-18 | **Chainlink** | ![Code4rena](https://img.shields.io/badge/Code4rena-24292E?style=flat-square&logoColor=white) | **5** | [View](https://code4rena.com/audits/2026-03-chainlink-payment-abstraction-v2) |
+
+
+## 🔒 Private Audit Experience
+
+<table>
+  <tr>
+    <td>
+      <h3>Liquidity Party AMM</h3>
+      <b>Private Audit · Sole Security Reviewer</b><br/>
+      <i>May 2026 – June 2026</i>
+      <br/><br/>
+      Served as the sole security reviewer for a pre-launch LMSR-based AMM with dynamic liquidity modeling and beta-scaling mechanisms. Reviewed core protocol components including the LMSR kernel, mint/burn accounting, rate-limit subsystem, router logic, and invariant assumptions before mainnet deployment.
+      <br/><br/>
+      Identified multiple high and medium severity issues across accounting, funding flows, routing assumptions, and protocol-level invariants, helping the team address critical design and implementation risks prior to launch.
+      <br/><br/>
+      <b>Focus Areas:</b> LMSR AMM logic, DeFi accounting, mint/burn flows, router security, rate limits, invariant analysis, Foundry PoCs
+      <br/><br/>
+      <b>Reference:</b> LinkedIn recommendation available on profile
+    </td>
+  </tr>
+</table>
+
+<br/>
